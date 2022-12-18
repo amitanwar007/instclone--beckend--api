@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amitanwar007/instclone--beckend--api.git.git"
+    "url": "git+https://github.com/amitanwar007/instclone--beckend--api.git"
   },
   "author": "Amit Tanwar",
   "license": "ISC",
