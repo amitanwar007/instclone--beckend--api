@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sumitanwar/Instaclone-Backend-API.git"
+    "url": "git+https://github.com/amitanwar007/instclone--beckend--api.git.git"
   },
   "author": "Amit Tanwar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sumitanwar/Instaclone-Backend-API/issues"
+    "url": "https://github.com/amitanwar007/instclone--beckend--api/issues"
   },
-  "homepage": "https://github.com/sumitanwar/Instaclone-Backend-API#readme",
+  "homepage": "https://github.com/amitanwar007/instclone--beckend--api#readme",
   "dependencies": {
     "body-parser": "^1.20.1",
     "cloudinary": "^1.33.0",
